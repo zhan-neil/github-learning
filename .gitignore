@@ -1,0 +1,20 @@
+﻿# 编译产物
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# 系统
+Thumbs.db
+.DS_Store
