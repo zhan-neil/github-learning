@@ -10,5 +10,7 @@
 
 \- git show 查看提交详情
 
-\-git mv 改文件名称 
+\-git mv 改文件名称
+
+\- git merge 合并分支（main 这边加的）
 
