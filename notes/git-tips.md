@@ -14,3 +14,6 @@
 
 \- git merge 合并分支（main 这边加的）
 
+\- git switch -c 创建并切换分支（冲突测试分支加的）
+
+
